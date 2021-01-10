@@ -1,7 +1,7 @@
 ---
 name: Request (Resources)
 about: Ask for a topic to be covered in the Resources section.
-title: "[REQUEST] Add <topic> to resources."
+title: "[RESOURCES] Requesting coverage of <topic>"
 labels: ''
 assignees: ''
 
