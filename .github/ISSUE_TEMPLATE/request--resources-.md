@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-## Description <!--- What in particular are you having trouble with? -->
+### Description <!--- What would you like to see covered? -->
 
-## Context <!---  Does your background or skill-set play a role? -->
+### Context <!---  Does your background or skill-set play a role? -->
 
-## Examples <!--- Please list project-specific instances, code, screenshots, etc.  -->
+### Examples <!--- Please list project-specific instances, code, screenshots, etc.  -->
