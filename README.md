@@ -5,7 +5,7 @@ An example:
 
 [CodeUI](github.com/ryanraposo/codeui) is an extension for VS Code. It's a niche product, and it's powered by specific technology. Many contributors will have applicable skills, but some aspects may be confusing. 
 
-Hopefully, adding a 'Resources' section will allow everyone to:
+Hopefully, adding a dynamic 'Resources' section will allow everyone to:
 - Address learning-curves the project.
 - Spin-up quickly.
 
