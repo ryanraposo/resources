@@ -13,7 +13,7 @@ Along with a couple templates to Request/Propose topics, everyone should:
 - Feel comfortable asking questions.
 - Have enough insight to teach.
 
-All developers stand to learn because, they all stand to teach!
+All developers stand to learn because they all stand to teach!
 
 This doc/template combo might help the process along. :)
 
