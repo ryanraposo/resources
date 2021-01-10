@@ -27,7 +27,7 @@ Expand for project-related examples:
 
 - [User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)
 
-</details>
+</details><br>
 
 <details><summary>VS Code API</summary>
 
@@ -37,19 +37,20 @@ Expand for project-related examples:
 - [Commands](https://code.visualstudio.com/api/references/vscode-api#commands)
 - [API Patterns](https://code.visualstudio.com/api/references/vscode-api#api-patterns)
 
-</details>
+</details><br>
 
 <details><summary>Other Extensions</summary>
 
 - [Tree View](https://github.com/microsoft/vscode-extension-samples/tree/master/webview-view-sample)
 - [Webview Panel](https://github.com/microsoft/vscode-extension-samples/tree/master/webview-view-sample)
 
-</details>
+</details><br>
 
 <details><summary>Color Spaces</summary>
 
 - [Pallets](https://www.color-hex.com/)
-- [Web-safe]()
+- [Web-safe](https://www.color-hex.com/216-web-safe-colors/)
+- [Conversion](https://www.rapidtables.com/convert/color/hex-to-rgb.html)
 
 
 </details>
@@ -76,7 +77,7 @@ Expand for project-related examples:
 
 - [User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)
 
-</details>
+</details><br>
 
 <details><summary>VS Code API</summary>
 
@@ -86,21 +87,21 @@ Expand for project-related examples:
 - [Commands](https://code.visualstudio.com/api/references/vscode-api#commands)
 - [API Patterns](https://code.visualstudio.com/api/references/vscode-api#api-patterns)
 
-</details>
+</details><br>
 
 <details><summary>Other Extensions</summary>
 
 - [Tree View](https://github.com/microsoft/vscode-extension-samples/tree/master/webview-view-sample)
 - [Webview Panel](https://github.com/microsoft/vscode-extension-samples/tree/master/webview-view-sample)
 
-</details>
+</details><br>
 
 <details><summary>Color Spaces</summary>
 
 - [Pallets](https://www.color-hex.com/)
-- [Web-safe Colors]()
+- [Web-safe](https://www.color-hex.com/216-web-safe-colors/)
+- [Conversion](https://www.rapidtables.com/convert/color/hex-to-rgb.html)
 
-![](./extension/docs/figma-webview-list.png.png)
 
 </details>
 
@@ -111,8 +112,8 @@ Expand for project-related examples:
 
 ## Submit/Request
 
-Identify a unique challenge while working in the project? Describe it [here]().
+Identify a unique challenge while working in the project? Describe it [here](./.github/ISSUE_TEMPLATE/request--resources-.md).
 
-Have a useful resource/snippet to add? Share it [here]().
+Have a useful resource/snippet to add? Share it [here](./.github/ISSUE_TEMPLATE/propose--resources-.md).
 ```
 
