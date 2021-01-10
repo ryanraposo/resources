@@ -1,2 +1,1 @@
-# resources
-Learn as a team. A new readme section powered by Issue Templates.
+Learn as a team. Add to your project README and power with Issue Templates.
