@@ -27,7 +27,7 @@ Expand for project-related examples:
 
 - [User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)
 
-</details><br>
+</details>
 
 <details><summary>VS Code API</summary>
 
@@ -37,14 +37,14 @@ Expand for project-related examples:
 - [Commands](https://code.visualstudio.com/api/references/vscode-api#commands)
 - [API Patterns](https://code.visualstudio.com/api/references/vscode-api#api-patterns)
 
-</details><br>
+</details>
 
 <details><summary>Other Extensions</summary>
 
 - [Tree View](https://github.com/microsoft/vscode-extension-samples/tree/master/webview-view-sample)
 - [Webview Panel](https://github.com/microsoft/vscode-extension-samples/tree/master/webview-view-sample)
 
-</details><br>
+</details>
 
 <details><summary>Color Spaces</summary>
 
