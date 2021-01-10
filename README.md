@@ -6,7 +6,7 @@ An example:
 [CodeUI](github.com/ryanraposo/codeui) is an extension for VS Code. It's a niche product, and it's powered by specific technology. Many contributors will have applicable skills, but some aspects may be confusing. 
 
 Hopefully, adding a dynamic 'Resources' section will allow everyone to:
-- Address learning-curves the project.
+- Address learning-curves in the project.
 - Spin-up quickly.
 
 Along with a couple templates to Request/Propose topics, everyone should:
