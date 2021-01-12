@@ -25,6 +25,7 @@ Expand for project-related examples:
 
 <details><summary>Using VS Code</summary>
 
+- [Themes](https://code.visualstudio.com/docs/getstarted/themes)
 - [User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)
 
 </details>
@@ -33,7 +34,6 @@ Expand for project-related examples:
 
 - [Window](https://code.visualstudio.com/api/references/vscode-api#window)
 - [Worskspace](https://code.visualstudio.com/api/references/vscode-api#workspace)
-- [Source Control Management](https://code.visualstudio.com/api/references/vscode-api#scm)
 - [Commands](https://code.visualstudio.com/api/references/vscode-api#commands)
 - [API Patterns](https://code.visualstudio.com/api/references/vscode-api#api-patterns)
 
@@ -83,7 +83,6 @@ Expand for project-related examples:
 
 - [Window](https://code.visualstudio.com/api/references/vscode-api#window)
 - [Worskspace](https://code.visualstudio.com/api/references/vscode-api#workspace)
-- [Source Control Management](https://code.visualstudio.com/api/references/vscode-api#scm)
 - [Commands](https://code.visualstudio.com/api/references/vscode-api#commands)
 - [API Patterns](https://code.visualstudio.com/api/references/vscode-api#api-patterns)
 
@@ -91,6 +90,7 @@ Expand for project-related examples:
 
 <details><summary>Other Extensions</summary>
 
+- [Themes](https://code.visualstudio.com/docs/getstarted/themes)
 - [Tree View](https://github.com/microsoft/vscode-extension-samples/tree/master/webview-view-sample)
 - [Webview Panel](https://github.com/microsoft/vscode-extension-samples/tree/master/webview-view-sample)
 
